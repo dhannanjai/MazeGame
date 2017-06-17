@@ -1,0 +1,13 @@
+1.	DO NOT EXCEPT ANY ANIMATION OR MUSIC.
+	I am a programmer and hence very poor at that stuff.
+
+2.	I used Input.GetKeyDown(KeyCode.LeftShift)
+	So,it will take some time to activate ability for HAMMER.
+
+3.	Extra time is to be used when there is more than one maze.
+	So, don't mind it much.
+
+4. 	The number of times you can use the ability of hammer is 3.
+	while that of twitch is 1.
+
+	Enjoy!!
